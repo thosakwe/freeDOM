@@ -1,2 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
 project(freeDOM)
+add_subdirectory(freedom)
+add_subdirectory(freenet)
+add_subdirectory(freeterm)
